@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mdawar-cs
+- 👋 Hi, I’m Muhammad Dawar
 - 👀 I’m interested in learning new technologies.
 - 🌱 I’m currently learning Iot, AI and Blockchain.
 - 📫 How to reach me twitter @mdawar_cs
